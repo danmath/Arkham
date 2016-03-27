@@ -1,0 +1,30 @@
+{
+  "name": "arkham",
+  "version": "1.0.0",
+  "description": "Arkham is a JavaScript based cybernetic detective game where a player must collect clues to solve a supernatural mystery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echp \\\"no test specified\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmath/Arkham.git"
+  },
+  "keywords": [
+    "game",
+    "arkham",
+    "cyberpunk",
+    "detective",
+    "horror",
+    "mystery",
+    "collection",
+    "turnbased",
+    "eventbased"
+  ],
+  "author": "Dan Math",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmath/Arkham/issues"
+  },
+  "homepage": "https://github.com/danmath/Arkham#readme"
+}
